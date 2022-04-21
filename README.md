@@ -1,0 +1,2 @@
+# chronoFullJS
+Chronometer JS only
